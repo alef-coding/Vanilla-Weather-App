@@ -30,7 +30,7 @@ li {
   font-weight: normal;
 }
 
-li.first-letter {
+li:first-letter {
   text-transform: capitalize;
 }
 
